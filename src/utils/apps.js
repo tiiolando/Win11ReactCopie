@@ -47,7 +47,7 @@ const apps = [
     action: "MSEDGE",
   },
   {
-    name: "Buy me a coffee",
+    name: "Prend moi un café",
     icon: "buyme",
     type: "app",
     action: "EXTERNAL",
@@ -287,7 +287,7 @@ const apps = [
     payload: "https://github.com/blueedgetechno/win11React",
   },
   {
-    name: "Unescape",
+    name: "Jeux",
     icon: "unescape",
     type: "action",
     action: "EXTERNAL",
