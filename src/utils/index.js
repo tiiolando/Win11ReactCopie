@@ -38,7 +38,7 @@ var { taskbar, desktop, pinned, recent } = {
     "Twitter",
     "File Explorer",
     "Terminal",
-    "Github",
+    "Mon insta",
     "Discord",
     "Camera",
   ],
